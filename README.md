@@ -8,8 +8,8 @@ This repository contains five different tools, each designed for a specific purp
 1. **Tool 1: Caesar Cipher Encryptor and Decryptor**
 2. **Tool 2: Image Encryption and Decryption Tool**
 3. **Tool 3: Password Strength Checker**
-4. **Tool 4: **
-5. **Tool 5: **
+4. **Tool 4: xyz**
+5. **Tool 5: xyz**
 
 
 ### Tool 1: Caesar Cipher Encryptor and Decryptor
