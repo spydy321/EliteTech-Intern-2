@@ -63,6 +63,18 @@ This repository contains five different tools, each designed for a specific purp
   python3 image_encryption.py
   ```
 
+### Tool 3: Password Strength Checker
+
+**Main Features**
+- **Strength Evaluation**: Rates passwords as "Weak," "Moderate," "Strong," or "Very Strong" based on complexity.
+- **Customizable Criteria**: Ensures the presence of uppercase, lowercase, digits, and special characters.
+- **Detailed Feedback**: Suggests ways to improve password strength.
+- **User-Friendly Interface**: Simple command-line prompts.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/tools-repository.git
 # Author
 - **Name**: Shivam Ingale
 - **GitHub**: spydy321
