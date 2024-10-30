@@ -24,7 +24,7 @@ This repository contains five different tools, each designed for a specific purp
    ```bash
    python3 --version
    ```
-2. Clone the repository
+2. Clone the repository:
    ```bash
    git clone https://github.com/spydy321/EliteTech-Intern.git
    ```
@@ -42,17 +42,21 @@ This repository contains five different tools, each designed for a specific purp
 ### Tool 2: Image Encryption and Decryption Tool
 
 **Main Features**:
-- Pixel Manipulation Encryption**: Encrypts images by modifying pixel values using a mathematical operation.
-- User-Defined Key**: Users can specify a numeric key for encryption and decryption.
-- Efficient Decryption**: Easily recover the original image with the same key.
-- Command-Line Interface**: Simple prompts for user interaction.
+- Pixel Manipulation Encryption: Encrypts images by modifying pixel values using a mathematical operation.
+- User-Defined Key: Users can specify a numeric key for encryption and decryption.
+- Efficient Decryption: Easily recover the original image with the same key.
+- Command-Line Interface: Simple prompts for user interaction.
 
 **Installation**:
 1. Ensure Python is installed:
    ```bash
    python3 --version
    ```
-2. Install Pillow:
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/spydy321/EliteTech-Intern.git
+   ```   
+3. Install Pillow:
    ```bash
    pip3 install Pillow
    ```
@@ -66,15 +70,26 @@ This repository contains five different tools, each designed for a specific purp
 ### Tool 3: Password Strength Checker
 
 **Main Features**
-- **Strength Evaluation**: Rates passwords as "Weak," "Moderate," "Strong," or "Very Strong" based on complexity.
-- **Customizable Criteria**: Ensures the presence of uppercase, lowercase, digits, and special characters.
-- **Detailed Feedback**: Suggests ways to improve password strength.
-- **User-Friendly Interface**: Simple command-line prompts.
+- Strength Evaluation: Rates passwords as "Weak," "Moderate," "Strong," or "Very Strong" based on complexity.
+- Customizable Criteria: Ensures the presence of uppercase, lowercase, digits, and special characters.
+- Detailed Feedback: Suggests ways to improve password strength.
+- User-Friendly Interface: Simple command-line prompts.
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tools-repository.git
+   git clone https://github.com/spydy321/EliteTech-Intern.git
+   ```
+2. Navigate to the repository directory:
+   ```bash
+   cd tools-repository
+   ```
+
+### Usage
+- To run the Password Strength Checker:
+  ```bash
+  python3 password_strength_checker.py
+  ```
 # Author
 - **Name**: Shivam Ingale
 - **GitHub**: spydy321
